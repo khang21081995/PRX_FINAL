@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<!--<root>
+    <InputPath>C:\input</InputPath>
+    <OutputPath>\\Mac\Home\Desktop\PRX_Final_Project\XML_FINAL_PROJECT\output</OutputPath>
+    <xsdFilePath>\\Mac\Home\Desktop\PRX_Final_Project\XML_FINAL_PROJECT\action.xsd</xsdFilePath>
+    <ClientPublicKey>\\Mac\Home\Desktop\PRX_Final_Project\XML_FINAL_PROJECT\keys\public.key</ClientPublicKey>
+    <ClientPrivateKey>\\Mac\Home\Desktop\PRX_Final_Project\XML_FINAL_PROJECT\keys\private.key</ClientPrivateKey>
+    <PublicKeyToEncrypt>\\Mac\Home\Desktop\PRX_Final_Project\XML_FINAL_PROJECT\keys\public.key</PublicKeyToEncrypt>
+</root>-->
+
+<root>
+    <InputPath>E:\GGDrive\PRX_FINAL\IO\input</InputPath>
+    <OutputPath>E:\GGDrive\PRX_FINAL\IO\output</OutputPath>
+    <xsdFilePath>C:\Users\khang\Desktop\PRX_Final_Project\client\XML_FINAL_PROJECT_Client\action.xsd</xsdFilePath>
+    <ClientPublicKey>\\Mac\Home\Desktop\PRX_Final_Project\XML_FINAL_PROJECT\keys\public.key</ClientPublicKey>
+    <ClientPrivateKey>\\Mac\Home\Desktop\PRX_Final_Project\XML_FINAL_PROJECT\keys\private.key</ClientPrivateKey>
+    <PublicKeyToEncrypt>\\Mac\Home\Desktop\PRX_Final_Project\XML_FINAL_PROJECT\keys\public.key</PublicKeyToEncrypt>
+    <Cid>_Cine1</Cid>
+</root>
+<!--<root>
+E:\GGDrive\PRX_FINAL\Resouce\XSD\
+    <InputPath>/Users/phamquangkhang/Desktop/PRX_Final_Project/XML_FINAL_PROJECT/input</InputPath>
+    <OutputPath>/Users/phamquangkhang/Desktop/PRX_Final_Project/XML_FINAL_PROJECT/output</OutputPath>
+    <xsdFilePath>/Users/phamquangkhang/Desktop/PRX_Final_Project/XML_FINAL_PROJECT/action.xsd</xsdFilePath>
+    <ClientPublicKey>/Users/phamquangkhang/Desktop/PRX_Final_Project/XML_FINAL_PROJECT/public.key</ClientPublicKey>
+    <ClientPrivateKey>/Users/phamquangkhang/Desktop/PRX_Final_Project/XML_FINAL_PROJECT/private.key</ClientPrivateKey>
+    <PublicKeyToEncrypt>/Users/phamquangkhang/Desktop/PRX_Final_Project/XML_FINAL_PROJECT/public.key</PublicKeyToEncrypt>
+</root>-->
