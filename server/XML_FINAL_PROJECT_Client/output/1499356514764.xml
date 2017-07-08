@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Action>
+  <name>KH01</name>
+  <passport />
+  <dob>21/08/1995</dob>
+  <phoneNumber />
+  <email />
+  <score>0</score>
+  <accountType>Vip</accountType>
+  <gender>Khác</gender>
+  <cardID>KH01</cardID>
+  <Type>UPDATE</Type>
+</Action>
